@@ -142,3 +142,7 @@ order = {
 }
 print(order["main"][2][0])
 """
+
+"""
+pythontutor.com is quite similar to Thonny where you can visualise your code to see the computer thought process
+"""
